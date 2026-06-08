@@ -1,11 +1,12 @@
 # 🎬 CineMatch — MLOps Movie Recommendation System
 
-[![CI/CD](https://github.com/ChinmayM2006/Movie-Recommendation-System/actions/workflows/ci_cd.yml/badge.svg)](https://github.com/ChinmayM2006/Movie-Recommendation-System/actions)
+[![CineMatch CI/CD Pipeline](https://github.com/ChinmayM2006/Movie-Recommendation-System/actions/workflows/workflow.yml/badge.svg)](https://github.com/ChinmayM2006/Movie-Recommendation-System/actions/workflows/workflow.yml)
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.111-green)
 ![MLflow](https://img.shields.io/badge/MLflow-3.1.4-orange)
 ![Airflow](https://img.shields.io/badge/Airflow-2.9.3-red)
 ![Docker](https://img.shields.io/badge/Docker-Compose-blue)
+
 
 > An AI-powered movie recommendation system with a full MLOps pipeline — automated training, drift detection, real-time monitoring, and CI/CD.
 
