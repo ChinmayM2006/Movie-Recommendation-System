@@ -365,11 +365,7 @@ View pipeline: https://github.com/ChinmayM2006/Movie-Recommendation-System/actio
 
 | Document | Description |
 |----------|-------------|
-| `HLD_Document.docx` | High-Level Design — architecture, components, data flow |
-| `LLD_Document.docx` | Low-Level Design — API specs, module design, data models |
 | `User_Manual.docx` | Non-technical user guide |
-| `Test_Plan_Report.docx` | Test plan, 25 test cases, test report |
 | `architecture_diagram.svg` | System architecture diagram |
-| `MLproject` | MLflow project definition |
 
 ---
